@@ -1,6 +1,4 @@
-import compiler
-import duck_parser
-import vm
+import compiler, duck_parser, vm
 
 
 def repl():
